@@ -52,3 +52,8 @@ const anoterId=Symbol('123')//it always take or  stores unique value
 //        Function  =>  function
 //        Object  =>  object
 
+
+
+//stack momory is used in Primitive types
+//Heap memory is used in Non Primitive type
+ 
